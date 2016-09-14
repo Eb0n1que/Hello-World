@@ -1,1 +1,1 @@
-Hello World! Let’s learn Git. You can undo or revert changes after a commit. 
+Hello World! Let’s learn Git. You can undo or revert changes after a commit. I’m going to sample revert hash. This is an example of branching and I’ll commit changes to the branch. Editing for merge conflict example. 
